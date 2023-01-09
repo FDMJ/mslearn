@@ -1,4 +1,4 @@
-[submodule "git@github.com:FDMJ/mslearn-vue-dynamic-render.git"]
-	url = .\\mslearn-vue\\mslearn-vue-dynamic-render\\
-[submodule "git@github.com:FDMJ/mslearn-vue-get-started.git"]
-	url = mslearn-vue-mslearn-vue-get-started
+[submodule ".\\mslearn-vue\\mslearn-vue-dynamic-render\\"]
+	url = git@github.com:FDMJ/mslearn-vue-dynamic-render.git
+[submodule ".\\mslearn-vue\\mslearn-vue-get-started\\"]
+	url = git@github.com:FDMJ/mslearn-vue-get-started.git
